@@ -14,7 +14,7 @@ _An AR project created for a better bodybuilding experience__
 
 ![マッチョARモデルの様子](https://github.com/Djs868/WebMacho/assets/136156691/b7ba7b0f-40eb-4cf2-8e56-5fcffd4009d5)
 
-> Webマッチョのペイジ
+> Webマッチョのページ
 ![Webマッチョ](https://github.com/Djs868/WebMacho/assets/136156691/fb94e594-deae-4f3c-974f-48260ba523d2)
 
 >Webマッチョの検索機能
