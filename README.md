@@ -17,6 +17,9 @@ _An AR project created for a better bodybuilding experience__
 **Contributor
 
 秦 幸生
+
 久保田 智幸
+
 東 莉奈子
+
 DU JIASHENG
