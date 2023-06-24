@@ -8,7 +8,7 @@ _An AR project created for a better bodybuilding experience__
 
 現在持っている食材や体格，筋トレの目的などから適切なメニューを算出したり，またAR技術を用いて適切な筋トレフォームを指示したりする。
 
-## DEMO（2023/06/17）
+## DEMO（2023/06/24）
 
 > マッチョARモデルの様子
 
