@@ -20,7 +20,8 @@ https://github.com/Djs868/WebMacho/assets/136156691/0100632b-476a-4357-8b17-42ca
 
 > Webマッチョのページ
 
-![ウェブマッチョ](https://github.com/Djs868/WebMacho/assets/136156691/00e1854a-2ab6-422d-aba7-0dc7394c3714)
+![DC2E6C74-8763-4557-A1FD-C52179D97692](https://github.com/Djs868/WebMacho/assets/136156691/47234a92-8b1a-4acf-b15c-2d9747c6ab77)
+
 
 >Webマッチョの検索機能
 
